@@ -5,4 +5,6 @@
 
 int main(int argc, char *argv[]) {
 printf("HELLO, WELCOME TO KING ABDULAZIZ UNIVERSTY\n");
+
+return 0;
 }

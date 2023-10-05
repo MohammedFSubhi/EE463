@@ -9,6 +9,6 @@ int S = 60 * 60 * H;
 printf("Number of Second in %d%s%d\n",H," Hours: ", S);
 
 
-
+return 0;
 
 }

@@ -61,4 +61,5 @@ case 12:
 printf("HIJRI: Dhu al-hijjah \nGREGORIAN: December \n");
 break;
 }
+return 0;
 }

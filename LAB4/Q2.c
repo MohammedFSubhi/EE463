@@ -12,4 +12,5 @@ char Minfo [13][60] = {"|   Mounth           HIJRI             GREGORIAN    |","
 printf("%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s", Minfo[0], Minfo[1],Minfo[2], Minfo[3], Minfo[4],Minfo[5], Minfo[6], Minfo[7],Minfo[8], Minfo[9], Minfo[10],Minfo[11], Minfo[12], Minfo[13]);
 printf("\n",Minfo[1]);
 
+return 0;
 }

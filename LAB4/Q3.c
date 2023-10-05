@@ -25,4 +25,7 @@ printf("\n\n--------------------------");
 printf("\nName: %s\n", name);
 printf("Age: %d", age);
 printf("\nAddress %s\n", address);
-printf("--------------------------\n\n");}
+printf("--------------------------\n\n");
+
+return 0;
+}

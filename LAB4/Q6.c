@@ -37,6 +37,6 @@ printf("\nThe Min: %d",MIN);
 printf("\nThe avr: %d",(AVR/3));
 printf("\n--------------------------\n");
 
-
+return 0;
 
 }
